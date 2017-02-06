@@ -5,7 +5,7 @@ public class mul {
 System.out.println("введите 2 числа:");
 int a = sc.nextInt();
 int b = sc.nextInt();
-int mul=a*2;
+int mul=a*b;
 System.out.println("произведение="+mul);
 }   
 	}
